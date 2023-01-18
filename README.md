@@ -1,5 +1,6 @@
 # Airlines Ticketing System
-This program manages booking appointment from an airlines company.
+This Java program manages booking appointment from an airlines company.
+It has a local database implementation by the use of SQL. 
 
 ### __Program processes:__
 - Encoding of passenger information
@@ -9,7 +10,6 @@ This program manages booking appointment from an airlines company.
 ### __Requirements:__
 - Eclipse for Java IDE
 - Xampp
-
 
 ### __How to run__:
 
